@@ -7,7 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8409B6F02525E30F00909C21 /* Euler26.h in Sources */ = {isa = PBXBuildFile; fileRef = 8409B6EF2525E30F00909C21 /* Euler26.h */; };
+		8409B6F22525EF1100909C21 /* Euler49.h in Sources */ = {isa = PBXBuildFile; fileRef = 8409B6F12525EF1100909C21 /* Euler49.h */; };
+		848BCFAF2527598600DA073A /* Euler60.h in Sources */ = {isa = PBXBuildFile; fileRef = 848BCFAE2527598600DA073A /* Euler60.h */; };
+		848BCFB1252759D700DA073A /* Prime.h in Sources */ = {isa = PBXBuildFile; fileRef = 848BCFB0252759D700DA073A /* Prime.h */; };
+		848BCFB325275A2600DA073A /* Digits.h in Sources */ = {isa = PBXBuildFile; fileRef = 848BCFB225275A2600DA073A /* Digits.h */; };
+		84B16FD7252640170047A041 /* Euler51.h in Sources */ = {isa = PBXBuildFile; fileRef = 84B16FD6252640170047A041 /* Euler51.h */; };
 		84B750FD2524CA6A00504310 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 84B750FC2524CA6A00504310 /* main.cpp */; };
+		84B751042524CDB100504310 /* Euler20.h in Sources */ = {isa = PBXBuildFile; fileRef = 84B751032524CDB100504310 /* Euler20.h */; };
+		84B751062524D95200504310 /* Euler21.h in Sources */ = {isa = PBXBuildFile; fileRef = 84B751052524D95200504310 /* Euler21.h */; };
+		84B751082524E1ED00504310 /* Euler22.h in Sources */ = {isa = PBXBuildFile; fileRef = 84B751072524E1ED00504310 /* Euler22.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +32,18 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8409B6EF2525E30F00909C21 /* Euler26.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Euler26.h; sourceTree = "<group>"; };
+		8409B6F12525EF1100909C21 /* Euler49.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Euler49.h; sourceTree = "<group>"; };
+		845C6CF32525CAF20081B9DB /* Euler29.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Euler29.h; sourceTree = "<group>"; };
+		848BCFAE2527598600DA073A /* Euler60.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Euler60.h; sourceTree = "<group>"; };
+		848BCFB0252759D700DA073A /* Prime.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prime.h; sourceTree = "<group>"; };
+		848BCFB225275A2600DA073A /* Digits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Digits.h; sourceTree = "<group>"; };
+		84B16FD6252640170047A041 /* Euler51.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Euler51.h; sourceTree = "<group>"; };
 		84B750F92524CA6A00504310 /* ProjectEuler */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProjectEuler; sourceTree = BUILT_PRODUCTS_DIR; };
 		84B750FC2524CA6A00504310 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		84B751032524CDB100504310 /* Euler20.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Euler20.h; sourceTree = "<group>"; };
+		84B751052524D95200504310 /* Euler21.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Euler21.h; sourceTree = "<group>"; };
+		84B751072524E1ED00504310 /* Euler22.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Euler22.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +77,16 @@
 			isa = PBXGroup;
 			children = (
 				84B750FC2524CA6A00504310 /* main.cpp */,
+				84B751032524CDB100504310 /* Euler20.h */,
+				84B751052524D95200504310 /* Euler21.h */,
+				84B751072524E1ED00504310 /* Euler22.h */,
+				8409B6EF2525E30F00909C21 /* Euler26.h */,
+				845C6CF32525CAF20081B9DB /* Euler29.h */,
+				8409B6F12525EF1100909C21 /* Euler49.h */,
+				84B16FD6252640170047A041 /* Euler51.h */,
+				848BCFB0252759D700DA073A /* Prime.h */,
+				848BCFB225275A2600DA073A /* Digits.h */,
+				848BCFAE2527598600DA073A /* Euler60.h */,
 			);
 			path = ProjectEuler;
 			sourceTree = "<group>";
@@ -120,6 +149,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				84B750FD2524CA6A00504310 /* main.cpp in Sources */,
+				848BCFB325275A2600DA073A /* Digits.h in Sources */,
+				84B16FD7252640170047A041 /* Euler51.h in Sources */,
+				8409B6F02525E30F00909C21 /* Euler26.h in Sources */,
+				848BCFB1252759D700DA073A /* Prime.h in Sources */,
+				8409B6F22525EF1100909C21 /* Euler49.h in Sources */,
+				84B751042524CDB100504310 /* Euler20.h in Sources */,
+				84B751062524D95200504310 /* Euler21.h in Sources */,
+				84B751082524E1ED00504310 /* Euler22.h in Sources */,
+				848BCFAF2527598600DA073A /* Euler60.h in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -17,6 +17,7 @@
 		84B751042524CDB100504310 /* Euler20.h in Sources */ = {isa = PBXBuildFile; fileRef = 84B751032524CDB100504310 /* Euler20.h */; };
 		84B751062524D95200504310 /* Euler21.h in Sources */ = {isa = PBXBuildFile; fileRef = 84B751052524D95200504310 /* Euler21.h */; };
 		84B751082524E1ED00504310 /* Euler22.h in Sources */ = {isa = PBXBuildFile; fileRef = 84B751072524E1ED00504310 /* Euler22.h */; };
+		84F33260252A27220076E9CB /* Euler61.h in Sources */ = {isa = PBXBuildFile; fileRef = 84F3325F252A27220076E9CB /* Euler61.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -44,6 +45,7 @@
 		84B751032524CDB100504310 /* Euler20.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Euler20.h; sourceTree = "<group>"; };
 		84B751052524D95200504310 /* Euler21.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Euler21.h; sourceTree = "<group>"; };
 		84B751072524E1ED00504310 /* Euler22.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Euler22.h; sourceTree = "<group>"; };
+		84F3325F252A27220076E9CB /* Euler61.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Euler61.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				848BCFB0252759D700DA073A /* Prime.h */,
 				848BCFB225275A2600DA073A /* Digits.h */,
 				848BCFAE2527598600DA073A /* Euler60.h */,
+				84F3325F252A27220076E9CB /* Euler61.h */,
 			);
 			path = ProjectEuler;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				84B751062524D95200504310 /* Euler21.h in Sources */,
 				84B751082524E1ED00504310 /* Euler22.h in Sources */,
 				848BCFAF2527598600DA073A /* Euler60.h in Sources */,
+				84F33260252A27220076E9CB /* Euler61.h in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

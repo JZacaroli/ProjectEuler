@@ -8,12 +8,12 @@
 
 #include <iostream>
 
-#include "Euler60.h"
+#include "Euler61.h"
 
 int main(int argc, const char * argv[]) {
 //    std::cout << "Hello, World!\n";
     
-    Euler60();
+    Euler61();
     
     return 0;
 }
